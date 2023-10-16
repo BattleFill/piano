@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\piano1\piano1\bin\Debug\net6.0\piano1.exe
+C:\Users\1\source\repos\piano1\piano1\bin\Debug\net6.0\piano1.deps.json
+C:\Users\1\source\repos\piano1\piano1\bin\Debug\net6.0\piano1.runtimeconfig.json
+C:\Users\1\source\repos\piano1\piano1\bin\Debug\net6.0\piano1.dll
+C:\Users\1\source\repos\piano1\piano1\bin\Debug\net6.0\piano1.pdb
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.AssemblyInfo.cs
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.dll
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\refint\piano1.dll
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.pdb
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\piano1.genruntimeconfig.cache
+C:\Users\1\source\repos\piano1\piano1\obj\Debug\net6.0\ref\piano1.dll
